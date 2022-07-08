@@ -1,0 +1,2 @@
+﻿  COMP124_Template.cpp
+C:\Users\Viraj Patel\Documents\Computer Science\COMP 124\Lab5\COMP124_Template.cpp : fatal error C1041: cannot open program database 'C:\Users\Viraj Patel\Documents\Computer Science\COMP 124\Lab5\Debug\vc142.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
